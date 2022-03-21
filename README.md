@@ -1,4 +1,4 @@
-# ETH-Batch-Import-Privatekey-Bruteforce
+# ETH-Batch-Import-Privatekey-Brute-Force
 A simple python script that generate random privatekeys and check if there's Ether in the account.
 # Kizmeow-OpenSea-and-Etherscan-Discord-Bot
 
