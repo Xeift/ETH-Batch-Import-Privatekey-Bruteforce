@@ -16,7 +16,7 @@ Usage
 -----------------
 change infura api url in `main.py` and run it.
 
-this is only a concept. According to Etherscan, there are 191,119,471 eth holders currently. 
+This is only a concept. According to Etherscan, there are 191,119,471 eth holders currently. 
 
 Private key is a 64 bits hex number. There are 
 
