@@ -10,7 +10,7 @@ zerobalance = json.load(open("zerobalance.json", "r"))# (no eth)store public/pri
 
 while 1:
   private_key = ''.join([random.SystemRandom().choice("0123456789abcdef") for i in range(64)])# generate random private key
-  if (private_key in cracked) or (private_key in cracked):# make sure not duplicate
+  if (private_key in cracked) or (private_key in zerobalance):# make sure not duplicate
     continue
     
   account = Account.from_key(private_key).address# convert private key to public key(address)
